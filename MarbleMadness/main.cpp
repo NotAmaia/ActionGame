@@ -6,7 +6,7 @@
 #include <ctime>
 using namespace std;
 
-const string assetDirectory = ""; 
+const string assetDirectory = "";
 const int msPerTick = 10;  // 10ms per tick; increase this if game moves too fast
 
 #ifdef _MSC_VER
